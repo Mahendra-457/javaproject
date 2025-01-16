@@ -1,6 +1,6 @@
 1.Java file
 <br>
-In this repository i followed this steps
+In this repository i followed below steps
 <br>
 Set Up the Spring Boot Project:
 <br>
